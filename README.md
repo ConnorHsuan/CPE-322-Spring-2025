@@ -2,7 +2,7 @@
 ## Stevens Institute of Technology
 ### Connor Hsuan
 ---
-This is the **table of contents** for the respository and a brief introduction on the author.
+This is the *table of contents* for the respository and a brief introduction on the author.
 __Italic__
 ---
 ### Table of Contents
