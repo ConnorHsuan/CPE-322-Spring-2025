@@ -5,11 +5,11 @@
 This is an example of **Bold Text**
 __Italic__
 
-## Table of Contents
-1. Assignemnt 1
+### Table of Contents
+1. Assignment 1
 2. Assignment 2
 > [!Note]
 > Contents will be updated at a later date.
-1. 
-2. 
-3. 
+* C++
+> Python
+> Assembly
