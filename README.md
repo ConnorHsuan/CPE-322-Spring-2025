@@ -16,4 +16,4 @@ __Italic__
 * Python
 * Assembly
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbjptG__e2qKoVyTC5ykZDx9GKegJ-AFRGA&s)
+![A picture of Stevens Institute of Technology.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbjptG__e2qKoVyTC5ykZDx9GKegJ-AFRGA&s)
