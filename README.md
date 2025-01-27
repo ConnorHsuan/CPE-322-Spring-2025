@@ -5,6 +5,6 @@
 This is an example of **Bold Text**
 __Italic__
 
-1.Gooning
-2.Gooning
-3.Gooning
+1. Gooning
+2. Gooning
+3. Gooning
