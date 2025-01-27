@@ -11,14 +11,15 @@ __Italic__
 > [!Note]
 > Contents will be updated at a later date.
 ---
-### Main Coding Languages
+### Main Coding Languages I use.
 * C++
 * Python
 * Java
+* 🍆
 ---
->This text is a quote.
+>“We can only see a short distance ahead, but we can see plenty there that needs to be done.”- Alan M. Turing
 ---
-Deep Shah's LinkedIn Page](https://www.linkedin.com/in/connor-hsuan-3665002b2/)
+[Connor Hsuan's LinkedIn Page](https://www.linkedin.com/in/connor-hsuan-3665002b2/)
 ---
 ![A picture of Stevens Institute of Technology.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbjptG__e2qKoVyTC5ykZDx9GKegJ-AFRGA&s)
 
