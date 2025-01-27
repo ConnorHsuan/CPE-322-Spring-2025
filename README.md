@@ -2,7 +2,7 @@
 ## Stevens Institute of Technology
 ### Connor Hsuan
 ---
-This is an example of **Bold Text**
+This is the **table of contents** for the respository and a brief introduction on the author.
 __Italic__
 ---
 ### Table of Contents
@@ -11,13 +11,12 @@ __Italic__
 > [!Note]
 > Contents will be updated at a later date.
 ---
-### Main Coding Languages I use.
+### Main Coding Languages I Use
 * C++
 * Python
 * Java
-* 🍆
 ---
->“We can only see a short distance ahead, but we can see plenty there that needs to be done.”- Alan M. Turing
+> “We can only see a short distance ahead, but we can see plenty there that needs to be done.”- Alan M. Turing
 ---
 [Connor Hsuan's LinkedIn Page](https://www.linkedin.com/in/connor-hsuan-3665002b2/)
 ---
