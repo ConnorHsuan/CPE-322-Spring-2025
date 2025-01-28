@@ -21,7 +21,7 @@ This is the **table of contents** for the respository and a brief *introduction*
 [Connor Hsuan's LinkedIn Page](https://www.linkedin.com/in/connor-hsuan-3665002b2/)
 ---
 ### Code
-System.out.println("Hello World"); prints Hello World in Java.
+'System.out.println("Hello World");' prints Hello World in Java.
 
 ---
 ![A picture of Stevens Institute of Technology.](Stevens.jpg)
