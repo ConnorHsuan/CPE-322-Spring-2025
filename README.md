@@ -2,8 +2,8 @@
 ## Stevens Institute of Technology
 ### Connor Hsuan
 ---
-This is the *table of contents* for the respository and a brief introduction on the author.
-__Italic__
+This is the **table of contents** for the respository and a brief introduction on the author.
+
 ---
 ### Table of Contents
 1. Assignment 1
@@ -21,6 +21,6 @@ __Italic__
 [Connor Hsuan's LinkedIn Page](https://www.linkedin.com/in/connor-hsuan-3665002b2/)
 ---
 ![A picture of Stevens Institute of Technology.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbjptG__e2qKoVyTC5ykZDx9GKegJ-AFRGA&s)
-
+---
 ### I need a Raspberry Pi.
 ### I pledge my honor that I abided by the Stevens Honor Code.
