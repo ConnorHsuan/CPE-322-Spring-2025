@@ -16,11 +16,11 @@ This is the **table of contents** for the respository and a brief *introduction*
 * Python
 * Java
 ---
-> “We can only see a short distance ahead, but we can see plenty there that needs to be done.”- Alan M. Turing
+> _“We can only see a short distance ahead, but we can see plenty there that needs to be done.”_- Alan M. Turing
 ---
 [Connor Hsuan's LinkedIn Page](https://www.linkedin.com/in/connor-hsuan-3665002b2/)
 ---
-![A picture of Stevens Institute of Technology.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbjptG__e2qKoVyTC5ykZDx9GKegJ-AFRGA&s)
+![A picture of Stevens Institute of Technology.](Stevnes.jpg)
 ---
 ### I need a Raspberry Pi.
 ### I pledge my honor that I abided by the Stevens Honor Code.
