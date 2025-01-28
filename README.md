@@ -20,7 +20,7 @@ This is the **table of contents** for the respository and a brief *introduction*
 ---
 [Connor Hsuan's LinkedIn Page](https://www.linkedin.com/in/connor-hsuan-3665002b2/)
 ---
-![A picture of Stevens Institute of Technology.](Stevnes.jpg)
+![A picture of Stevens Institute of Technology.](Stevens.jpg)
 ---
 ### I need a Raspberry Pi.
 ### I pledge my honor that I abided by the Stevens Honor Code.
