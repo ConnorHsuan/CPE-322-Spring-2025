@@ -28,3 +28,5 @@ This is the **table of contents** for the respository and a brief *introduction*
 ---
 ### I need a Raspberry Pi.
 ### I pledge my honor that I abided by the Stevens Honor Code.
+---
+[Team Project Site](https://sites.google.com/stevens.edu/cpe-322-engineering-design-vi/home)
