@@ -6,8 +6,9 @@ This is the **table of contents** for the respository and a brief *introduction*
 
 ---
 ### Table of Contents
-1. Assignment 1
-2. Assignment 2
+1. Lab 1
+2. Lab 2
+3. Lab 3
 > [!Note]
 > Contents will be added later on.
 ---
