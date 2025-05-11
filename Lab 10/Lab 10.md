@@ -16,7 +16,7 @@
 ![Snake Coin Server](snakeCoinServer2.png)
 ---
 ### Snake Coin Mine
-![Snake Coin Mine](snakeCoinMiner1.png)
+![Snake Coin Mine](snakeCoinMine1.png)
 ![Snake Coin Mine](snakeCoinMine2.png)
 
 
