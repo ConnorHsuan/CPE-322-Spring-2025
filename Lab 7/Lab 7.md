@@ -4,3 +4,6 @@
 ---
 ### ThinkSpeak
 ![ThinkSpeak](thinkspeak.png)
+---
+### cpudata
+![cpudata.py](spudata.png)
