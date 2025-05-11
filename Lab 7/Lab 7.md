@@ -6,4 +6,4 @@
 ![ThinkSpeak](thinkspeak.png)
 ---
 ### cpudata
-![cpudata.py](spudata.png)
+![cpudata.py](cpudata.png)
